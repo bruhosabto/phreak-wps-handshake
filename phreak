@@ -1,0 +1,10 @@
+--LEIA-ME--
+
+voce pode compilar os arquivos normalmente usando o gcc, ou o cc
+
+gcc main.c telefone.c -o evil
+cc main.c telefone.c -o evil
+
+mv evil /bin ; rm -rf evil
+
+aproveite e faça as modificações que desejar.
